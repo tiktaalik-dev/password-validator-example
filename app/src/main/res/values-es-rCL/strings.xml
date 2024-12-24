@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Validador de Contraseñas</string>
+    <string name="prompt_password">Escribe una contraseña</string>
+    <string name="action_validate">Validar Contraseña</string>
+    <string name="invalid_password">¡Tu contraseña es inválida!</string>
+    <string name="valid_password">Tu contraseña es válida</string>
+    <string name="recommendations_1">Recuerda que una contraseña segura debe cumplir con estas características:</string>
+    <string name="recommendations_2">> Al menos 5 caracteres</string>
+    <string name="recommendations_3">> Al menos 1 letra mayúscula</string>
+    <string name="recommendations_4">Otras recomendaciones para hacer tu contraseña más fuerte son:</string>
+    <string name="recommendations_5">> Al menos 1 caracter especial (como .,%$)</string>
+    <string name="recommendations_6">> Al menos 1 número</string>
+    <string name="instructions">La contraseña debe tener al menso 5 caracteres y una letra mayúscula</string>
+</resources>

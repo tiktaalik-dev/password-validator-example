@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Password Validator</string>
+    <!-- Strings related to validator -->
+    <string name="prompt_password">Write a password</string>
+    <string name="action_validate">Validate Password</string>
+    <string name="invalid_password">Your password is invalid!</string>
+    <string name="valid_password">Your password is valid</string>
+    <string name="recommendations_1">Remember that a secure password must meet the following requirements:</string>
+    <string name="recommendations_2">> At least 5 characters</string>
+    <string name="recommendations_3">> At least 1 uppercase letter</string>
+    <string name="recommendations_4">Other recommendations to strengthen your password are:</string>
+    <string name="recommendations_5">> At least 1 special character (such as .,%$)</string>
+    <string name="recommendations_6">> At least 1 number</string>
+    <string name="instructions">The password must be at least 5 characters long and include an uppercase letter</string>
+</resources>
